@@ -30,6 +30,27 @@ const Projects = () => {
               View on GitHub
             </a>
           </div>
+          <div className="bg-white shadow-md rounded-lg p-5">
+            <h3 className="text-xl font-semibold">Task Manager App</h3>
+            <p className="text-gray-600">
+              A MERN stack Task Manager app with authentication and CRUD
+              features.
+            </p>
+            <a
+              href="https://github.com/SushantAryal7/task-manager"
+              className="text-blue-500"
+            >
+              View on GitHub
+            </a>
+            <p>
+              <a
+                href="https://task-manager-frontends.onrender.com/"
+                className="text-blue-500"
+              >
+                Live Demo
+              </a>
+            </p>
+          </div>
         </div>
       </div>
     </section>
