@@ -15,7 +15,7 @@ const Connect = () => {
           {/* Email */}
           <div className="w-full sm:w-auto text-gray-700 hover:text-blue-600 transition-colors cursor-pointer mb-4 sm:mb-0">
             <a
-              href="mailto:sushantaryal7@gmail.com?subject=Let's Connect&body=Hi Sushant,"
+              href="mailto:aryasushant7@gmail.com?subject=Let's Connect&body=Hi Sushant,"
               className="text-xl"
             >
               📧 Email
